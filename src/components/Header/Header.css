@@ -1,0 +1,29 @@
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px;
+}
+
+nav .menu{
+    display: flex;
+    align-items: center;
+}
+
+nav .menu a{
+    margin-left: 60px;
+    font-weight: 500;
+    color: #646cff;
+    text-decoration: inherit;
+}
+
+nav .menu a:hover {
+    color: #010dee;    
+}
+
+nav img{
+    width: 60px;
+    border-radius: 50%;
+}
+
