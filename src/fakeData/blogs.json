@@ -3,37 +3,37 @@
         "id": "2022301",
         "blog_title": "API Documentation: What is it & How To Create them?",
         "author_name": "Martin Ortega",
-        "author_img": "https://randomuser.me/api/portraits/men/47.jpg",
+        "authorImg": "https://images.unsplash.com/profile-1446404465118-3a53b909cc82?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32&s=a2f8c40e39b8dfee1534eb32acfa6bc7",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/05/How-To-Create-API-Documentation-In-Minutes-Blog-Banner.png",
         "read_time": 3,
-        "publish_date": "1 week ago"
+        "publish_date": "Mar 20 (1 week ago)"
     },
     {
         "id": "2022302",
         "blog_title": "24 Bit.ai Integrations to Make your Documents Powerful!",
         "author_name": "Jimmy Stewart",
-        "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+        "authorImg": "https://images.unsplash.com/profile-1446404465118-3a53b909cc82?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32&s=a2f8c40e39b8dfee1534eb32acfa6bc7",
         "img": "https://blog.bit.ai/wp-content/uploads/2022/06/mw1920_24_Awesome_Integrations_to_Create_Powerful_Documents_banner.jpg",
         "read_time": 6,
-        "publish_date": "3 weeks ago"
+        "publish_date": "Mar 5 (3 weeks ago)"
     },
     {
         "id": "2022303",
         "blog_title": "Software Development Process: Steps To Follow",
         "author_name": "David Joyce",
-        "authoimgme": "https://randomuser.me/api/portraits/men/22.jpg",
+        "authorImg": "https://images.unsplash.com/profile-1446404465118-3a53b909cc82?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32&s=a2f8c40e39b8dfee1534eb32acfa6bc7",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/10/Software-Development-Process-Steps-To-Follow-Blog-Banner-1.png",
         "read_time": 5,
-        "publish_date": "1 month ago"
+        "publish_date": "Feb 20 (1 month ago)"
     },
     {
         "id": "2022304",
         "blog_title": "Top 11 Code Editors for Software Developers!",
         "author_name": "Elias Tyson",
-        "authoimgme": "https://randomuser.me/api/portraits/men/61.jpg",
+        "authorImg": "https://images.unsplash.com/profile-1446404465118-3a53b909cc82?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32&s=a2f8c40e39b8dfee1534eb32acfa6bc7",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/09/Top-11-Code-Editors-for-Software-Developers-Blog-Banner.png",
         "read_time": 4,
-        "publish_date": "2 months ago"
+        "publish_date": "Jan 14 (2 months ago)"
     }
     
 ]
