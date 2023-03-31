@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import Bookmark from '../Bookmark/Bookmark';
 import Post from '../Post/Post';
 import './Blogs.css';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Blogs = () => {
     const [posts ,setPosts] = useState([]);
@@ -23,7 +25,13 @@ const Blogs = () => {
     const handleAddToBookmark = (post) => {
         setCount(count+1);
         const newBookmarks = [...bookmarks, post];
-        setBookmarks(newBookmarks);
+        
+        if(!newBookmarks){
+            setBookmarks(newBookmarks);
+        }
+        else{
+            toast("Bookmark added Choto Bhai !!")
+        }
 
     }
 
