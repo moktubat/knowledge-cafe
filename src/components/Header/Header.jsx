@@ -9,7 +9,7 @@ const Header = () => {
                 <h3>Props Technologies</h3>
                 <div className='menu'>
                     <a href="#">Home</a>
-                    <a href="#">Blogs</a>
+                    <a href="#blog">Blogs</a>
                     <a href="#"><img src={logo} alt="" /></a>
                 </div>
                 
