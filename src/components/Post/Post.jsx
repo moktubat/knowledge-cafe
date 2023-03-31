@@ -34,7 +34,7 @@ const Post = (props) => {
                 </div>
                 <h1>{blog_title}</h1>
                 <p>{tag}</p>
-                <button onClick={() => handleReadTime(read_time)}><strong>Mark as read</strong></button>
+                <button className="btn-read" onClick={() => handleReadTime(read_time)}><strong>Mark as read</strong></button>
                 
             </div>
         </div>

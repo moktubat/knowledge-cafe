@@ -1,4 +1,21 @@
 .cart-container{
     margin-top: 34px;
     font-weight: bolder;
+    position: sticky;
+    border-radius: 8px;
+}
+
+.time-container p{
+    background: #e5e2f3;
+    outline: #6047EC solid 2px;
+    border-radius: 4px;
+    text-align: center;
+    height: 40px;
+    padding-top: 16px;
+    color: #6047EC
+    ;
+}
+
+.added-bookmark{
+    padding-left: 8px;
 }
