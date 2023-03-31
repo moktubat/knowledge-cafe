@@ -30,7 +30,7 @@ const Blogs = () => {
             setBookmarks(newBookmarks);
         }
         else{
-            toast("Bookmark added Choto Bhai !!")
+            toast("Bookmark added !!")
         }
 
     }
