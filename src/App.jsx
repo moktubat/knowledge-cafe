@@ -4,9 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './components/Header/Header'
 import Blogs from './components/Blogs/Blogs'
+import Bookmark from './components/Bookmark/Bookmark'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">

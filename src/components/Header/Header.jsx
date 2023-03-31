@@ -12,7 +12,9 @@ const Header = () => {
                     <a href="#">Blogs</a>
                     <a href="#"><img src={logo} alt="" /></a>
                 </div>
+                
             </nav>
+            <hr />
         </div>
     );
 };

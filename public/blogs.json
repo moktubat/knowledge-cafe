@@ -3,37 +3,41 @@
         "id": "2022301",
         "blog_title": "API Documentation: What is it & How To Create them?",
         "author_name": "Martin Ortega",
-        "description": "Healthy communication is vital to every human interaction. When you are successfully able to articulate your thoughts and feelings to another person, you build a deeper, more meaningful relationship with them. While communication in the real word can be via words, expressions, or technology, communication in the virtual world is done via APIs",
+        "author_img": "https://randomuser.me/api/portraits/men/47.jpg",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/05/How-To-Create-API-Documentation-In-Minutes-Blog-Banner.png",
         "read_time": 3,
-        "publish_date": "1 week ago"
+        "publish_date": "Mar 20 (1 week ago)",
+        "tag": "#beginners #programming"
     },
     {
         "id": "2022302",
         "blog_title": "24 Bit.ai Integrations to Make your Documents Powerful!",
         "author_name": "Jimmy Stewart",
-        "description": "The hype about Bit.ai is real. Bit.ai has taken document collaboration to whole another level by helping you and your team create, collaborate, organize and manage all company knowledge and documents under one roof. And, what’s better than one killer document collaboration tool? 2 killer tools (or more) working together, just like Batman & Robin, or Iron Man and his Avengers gang.",
+        "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
         "img": "https://blog.bit.ai/wp-content/uploads/2022/06/mw1920_24_Awesome_Integrations_to_Create_Powerful_Documents_banner.jpg",
         "read_time": 6,
-        "publish_date": "3 weeks ago"
+        "publish_date": "Mar 01 (3 weeks ago)",
+        "tag": "#beginners #programming"
     },
     {
         "id": "2022303",
         "blog_title": "Software Development Process: Steps To Follow",
         "author_name": "David Joyce",
-        "description": "Think of an activity that is not powered by some kind of computer-related process. A little hard, isn’t it? Software is everywhere today. It leads our every step. It is a part of everything we do. Organizations are gearing towards software-driven innovation more than ever. Be it for improving internal business operations or presenting software as a business model.",
+        "author_img": "https://randomuser.me/api/portraits/men/22.jpg",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/10/Software-Development-Process-Steps-To-Follow-Blog-Banner-1.png",
         "read_time": 5,
-        "publish_date": "1 month ago"
+        "publish_date": "Feb 15 (1 month ago)",
+        "tag": "#beginners #programming"
     },
     {
         "id": "2022304",
         "blog_title": "Top 11 Code Editors for Software Developers!",
         "author_name": "Elias Tyson",
-        "description": "As a developer, your main tool is definitely the one that allows you to turn your ideas into code: a code editor. To edit HTML and CSS code, you only need a simple text editor and the rest depends on your skills and your creativity. However, to make your life a little bit easier, you can use code editors with advanced editing features. These features can effectively support you during coding, debugging, and testing.",
+        "author_img": "https://randomuser.me/api/portraits/men/61.jpg",
         "img": "https://blog.bit.ai/wp-content/uploads/2020/09/Top-11-Code-Editors-for-Software-Developers-Blog-Banner.png",
         "read_time": 4,
-        "publish_date": "2 months ago"
+        "publish_date": "Jan 10 (2 months ago)",
+        "tag": "#beginners #programming"
     }
-    
+
 ]
